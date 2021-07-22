@@ -1,0 +1,20 @@
+# Organizations and Projects
+
+Stage III | The current/previous generation of cosmology surveys, including DES, KiDS, HSC
+Stage IV | The new generation of cosmology surveys, including Rubin, Euclid, Roman.
+DES | Dark Energy Survey, a Stage III survey
+DESI | Dark Energy Spectroscopic Instrument
+DM | LSST Project Data Management, the group the does lower-level processing of LSST data. We get our data from them.
+DOE | U.S. Department of Energy, funds the construction and operation of LSST
+Euclid | A Stage IV, European Space Agency space telescope project with many similar goals to LSST
+HST | Hubble Space Telescope
+JWST | James Webb Space Telescope
+LSST | (previously) Large Synoptic Survey Telescope (now) Legacy Survey of Space and Time, the 10-year survey done with Rubin
+NERSC | National Energy Research Scientific Computing Center, the supercomputing facility that is DESC's primary computing home
+CC-IN2P3 | Computing centre based in the Institut national de physique nucléaire et de physique des particules in France, also used for DESC processing
+PFS | Prime-Focus Spectrograph
+WFIRST | See Roman
+Roman | The Nancy Grace Roman Telescope, a Stage IV survey, formerly called WFIRST and before that AFTA.
+HSC | HyperSuprime Cam, a Stage III survey
+KiDS | Kilo-Degree Survey, a Stage III survey
+AURA | Association of Universities for Research in Astronomy, and organization that operates telescopes incuding LSST

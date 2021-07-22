@@ -1,0 +1,36 @@
+# DESC and Related Computing Projects
+
+MAF | Metrics Analysis Framework - tools to characterize the LSST survey and its scientific performance for various observational strategies.
+CCL | Core Cosmology Library
+TXPipe | 3x2pt Measurement Framework, goes from DM catalogs to WL and LSS science measurements
+FireCrown | Cosmological parameter estimation framework / library
+TJPCosmo | Former name for FireCrown
+RAIL | Redshift Assessment Interface Layers
+CLMM | Cluster Lensing Mass Modeling, library for performing galaxy cluster mass reconstruction from weak lensing observables
+TJPCov | A library interfacing to a range of covariance estimation codes
+QP | A library for parametrizing and storing photo-z PDF data
+ceci | A framework for running pipelines used by TXPipe
+snmachine | A library for reading and analysing supernova light curves
+GCRCatalogs | A library for accessing DESC (and other) catalogs in a uniform way
+SACC | A library for storing measured cosmology statistics and their covariances
+Coord | A library for coordinate transformations
+Clevar | A library to validate cluster detection
+Healpix | A pixelization of the sphere and associated library
+Healsparse | A library for storing and accessing Healpix maps more efficiently
+DESCQA | A framework for running quality assurance tests on LSST catalogs
+Augur | A library for forecasting science constraints using Fisher Matrices
+Spectractor | A library to measure the atmospheric transmission and extract spectra from slitless spectrophotometric images
+GalSim | A library for simulating general galaxy images
+ImSim | A library for simulating DESC images using GalSim
+PhoSim | A library for simulating photon trajectories through the atmosphere
+NaMaster | A library for measuring the Fourier-space two-point function (the power spectrum)
+TreeCorr | A library for measuring the real-space two-point function (the correlation function)
+Supreme | A library for extracting maps of survey properties from DM data
+BPZ | A photometric redshift code
+Delight | A photometric redshift code
+QIT | tools for cosmological inference propagating photometric redshift uncertainties
+FlexZBoost | A photometric redshift code
+Piff | A library for measuring the PSF in images
+MLZ | A photometric redshift code
+PubDB | The system for tracking DESC projects and publications 
+DM (Stack) |  The suite of LSST Project data processing software

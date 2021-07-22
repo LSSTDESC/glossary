@@ -1,0 +1,26 @@
+# Collaboration Organizational Units
+
+WL | Weak Gravitational Lensing, an analysis WG
+CL | Galaxy Clusters, an analysis WG
+OS | Observing Strategy, technical WG
+PZ | Photometric Redshifts, an analysis WG
+LSS | Large Scale Structure, an analysis WG
+TD | Time Domain, an analysis WG
+SL | Strong Lensing, a former WG now merged into TD
+SN | Supernovae, a former WG now merged into TD
+ES | External Synergies, an analysis WG
+DKM | Dark Matter, an analysis WG
+MCP | Modelling and Combined Probes, an analysis WG
+TJP | Theory and Joint Probes, old name for MCP
+CSS | Cosmological and Survey Simulations WG, a computing WG
+CO | Computing working group
+SRV | Science Release & Verification WG
+CS | Cosmological Simulations, former working group now merged into CSS
+SSim | Survey Simulations, former work group now merged into CSS
+BL | Blending, a technical WG
+PC | Photometric Corrections, technical WG
+PSF | Point-Spread Function, a technical WG
+SA | Sensor Anomalies, a technical WG
+SAWG | Sensor Anomalies Working Group, see "SA"
+DFC | Data Facilities Committee - group the coordinates between data centers around the world
+CI | Computing Infrastructure an Operations team building infrastructure

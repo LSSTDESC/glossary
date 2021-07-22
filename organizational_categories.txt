@@ -1,0 +1,11 @@
+# Organizational Categories
+
+DESC | Dark Energy Science Collaboration - the collaboration working on cosmology with the Rubin Observatory
+LSST | The Legacy Survey of Space & Time, previously the Large Synoptic Survey telescope (the telescope and observatory have been renamed to the Simonyi Survey Telescope and Rubin Observatory respectively)
+LSSTC | The LSST Corporation, a non-profit organization formed to accept international and charitable contributions to the project
+Project | The organization that builds and runs the telescope, and hosts the data management team that does early data processing
+WG | Working group, the main DESC organizational unit, divided into analysis, computing, and technical groups
+TT | Topical Team - informal group focusing on a single activity
+TF | Task Force - Focused and finite-time group with a specific charge
+Ops | Operations Committee, the DESC group that manages pipeline scientists (see PS)
+PS | Pipeline scientists, people with some time assigned to DESC infrastructure development on analysis and technical topics

@@ -1,0 +1,25 @@
+# Other Collaboration and Project Terms
+
+DC | Data Challenge
+DC2 | Data Challenge 2, the latest DESC simulation suite, consisting of images and catalogs
+CosmoDC2 | See DC2
+DDF | Deep-Drilling Field (deeper regions of observation within the LSST survey footprint)
+DP | Data Product
+DR | Data Release (typically referring to LSST's data releases once the survey starts)
+DRP | Data Release Production, LSST's data production process
+SR | Science Readiness
+SRD | Science Requirements Document (either for the LSST project or the DESC, depending on context), a document listing what requirements there are on codes and data
+SRM | Science Road Map, a document planning out DESC's current and future work
+SV | Science Verification, a process or period looking at early LSST data
+WFD | Wide-Fast-Deep (a term used to describe the basic observational strategy of the main LSST survey)
+KP | Key Project (one of the main areas of infrastructure work within a DESC working group)
+R&D | Research & Development, or basic research activities (as opposed to work on building infrastructure)
+RQ | Requirements
+N5K | Non-local No-Nonsense Non-Limber Numerical Knockout - a project challenging entrants to predict beyond-limber spectra
+SkySim5000 | a 5000 square degree DESC simulation, with catalogs only (no images)
+Plasticc | a data challenge on classifying transient phenomena
+Metacalibration | A method of galaxy shear measurement for weak lensing that finds the response of galaxies to shear.
+Metadetection | A method of galaxy shear measurement for weak lensing that checks whether galaxies would have been detected if they had had different shears. Descended from Metacalibration
+ComCam | LSST Commissioning Camera, a preliminary camera on the same telescope as the full one but installed earlier
+AuxTel | The auxiliary telescope, a small telescope on the Rubin site for atmospheric monitoring and modelling
+WFD | Wide-Fast-Deep, the main LSST survey region of interest to DESC
